@@ -1,6 +1,6 @@
-# GastosCompartidos
+# ProporcionalizadorDeGastos
 
-**GastosCompartidos** es una herramienta sencilla en Python diseñada para calcular la contribución de cada miembro del hogar a los gastos mensuales de manera equitativa y proporcional a sus ingresos. Ideal para parejas, compañeros de piso o cualquier grupo que comparta gastos.
+**ProporcionalizadorDeGastos** es una herramienta sencilla en Python diseñada para calcular la contribución de cada miembro del hogar a los gastos mensuales de manera equitativa y proporcional a sus ingresos. Ideal para parejas, compañeros de piso o cualquier grupo que comparta gastos.
 
 ## Características Principales
 
